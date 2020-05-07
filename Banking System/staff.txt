@@ -1,0 +1,11 @@
+[
+{"username": "ayomide",
+"password": "pass",
+"email": "ayomide@gmail.com",
+"full_name": "Ayomide Gold"},
+
+{"username": "pelumi",
+"password": "pass1",
+"email": "pelumi@gmail.com",
+"full_name": "Pelumi Silver"}
+]
